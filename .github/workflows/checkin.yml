@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # 每天北京时间 03:15
-    - cron: "15 3 * * *"
+    - cron: "40 6 * * *"
       timezone: "Asia/Shanghai"
 
 
