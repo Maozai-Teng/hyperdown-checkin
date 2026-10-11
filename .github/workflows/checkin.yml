@@ -3,10 +3,10 @@ name: Hyperdown Check-in
 
 on:
   workflow_dispatch:
-  schedule:
+#  schedule:
     # 每天北京时间 07:42
-    - cron: "42 7 * * *"
-      timezone: "Asia/Shanghai"
+#    - cron: "42 7 * * *"
+#      timezone: "Asia/Shanghai"
 
 
 
